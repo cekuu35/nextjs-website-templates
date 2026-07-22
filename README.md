@@ -3,7 +3,7 @@
 > **Next.js 15 + Tailwind CSS + TypeScript** — multi-page, fully working websites.  
 > Not blank landing pages. Each template ships with **5+ pages**, working contact/booking forms, proper routing, and single-file configuration.
 
-**[Browse & Buy → cenkkurtoglu.com](https://cenkkurtoglu.com)**
+**[Browse 20 live demos → cenkkurtoglu.com/templates](https://cenkkurtoglu.com/templates)** · **[Get all 20 for $79 → Gumroad](https://cengokurtoglu.gumroad.com/l/vuhstz?utm_source=github&utm_medium=referral&utm_campaign=bundle79)**
 
 ---
 
@@ -89,10 +89,12 @@ Every template includes:
 
 | Option | Price | What You Get |
 |--------|-------|--------------|
-| Single Template | **$49** | 1 template of your choice |
-| Mega Bundle (all 20) | **$299** | All 20 templates (~$980 value) |
+| Bundle (all 20) | **$79 one-time** | Full source ZIPs, commercial client-work license, lifetime updates |
+| Basic agency template | **$50** | Clean Studio standalone build |
+| Standard agency template | **$100** | Meridian standalone animated build |
+| Premium agency template | **$250** | Nexus Studio standalone cinematic 3D build |
 
-**[Get the templates at cenkkurtoglu.com](https://cenkkurtoglu.com)**
+**[Browse the live catalog](https://cenkkurtoglu.com/templates)** · **[Buy the $79 bundle on Gumroad](https://cengokurtoglu.gumroad.com/l/vuhstz?utm_source=github&utm_medium=referral&utm_campaign=bundle79)**
 
 ---
 
@@ -123,7 +125,7 @@ A: Yes — when you purchase at [cenkkurtoglu.com](https://cenkkurtoglu.com), yo
 A: No. Forms work with client-side handlers out of the box. You can plug in Resend, Nodemailer, or any form service.
 
 **Q: Can I use this for client work?**  
-A: Yes. Single license covers one site (yours or a client's). Bundle covers unlimited personal/client use.
+A: Yes. The bundle includes a commercial client-work license. See the checkout terms for the exact license scope.
 
 **Q: Next.js version?**  
 A: All templates use **Next.js 15 App Router**. Tested on Node 18+, deploys in one click to Vercel.
