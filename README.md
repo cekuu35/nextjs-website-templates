@@ -1,7 +1,7 @@
-# 20 Production-Ready Next.js Website Templates
+# 20 Next.js Templates for Agencies & Freelancers
 
-> **Next.js 16 + Tailwind CSS v4 + TypeScript** — multi-page, fully working websites.  
-> Not blank landing pages. Each template ships with **5+ pages**, working contact/booking forms, proper routing, and single-file configuration.
+> **Next.js 16 + Tailwind CSS v4 + TypeScript** — 20 multi-page starter sites designed for agency pitches and client builds.  
+> Skip the blank canvas, show a credible first direction sooner, then spend your time on the client’s brand, content, and experience. Each template ships with **5+ pages**, working contact/booking forms, proper routing, and single-file configuration.
 
 **[Browse 20 live demos → cenkkurtoglu.com/templates](https://cenkkurtoglu.com/templates)** · **[Get all 20 for $79 → Gumroad](https://cengokurtoglu.gumroad.com/l/vuhstz?utm_source=github&utm_medium=referral&utm_campaign=bundle79)**
 
@@ -119,7 +119,7 @@ Want to try before you buy?
 ## FAQ
 
 **Q: Is source code included?**  
-A: Yes — when you purchase at [cenkkurtoglu.com](https://cenkkurtoglu.com), you receive the full source code as a ZIP.
+A: Yes — purchase through the [$79 Gumroad checkout](https://cengokurtoglu.gumroad.com/l/vuhstz?utm_source=github&utm_medium=referral&utm_campaign=agency_starters), and you receive the full source code as ZIP downloads.
 
 **Q: Do I need a backend?**  
 A: No. Forms work with client-side handlers out of the box. You can plug in Resend, Nodemailer, or any form service.
