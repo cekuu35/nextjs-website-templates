@@ -1,7 +1,7 @@
 # 20 Next.js Templates for Agencies & Freelancers
 
-> **Next.js 16 + Tailwind CSS v4 + TypeScript** — 20 multi-page starter sites designed for agency pitches and client builds.  
-> Skip the blank canvas, show a credible first direction sooner, then spend your time on the client’s brand, content, and experience. Each template ships with **5+ pages**, working contact/booking forms, proper routing, and single-file configuration.
+> **Next.js 15.1 + React 19 + Tailwind CSS 3.4 + TypeScript** — 20 multi-page starter sites designed for agency pitches and client builds.  
+> Skip the blank canvas, show a credible first direction sooner, then spend your time on the client’s brand, content, and experience. Forms and commerce/booking actions are demo UI flows; connect and test your own production backend before client delivery.
 
 **[Browse 20 live demos → cenkkurtoglu.com/templates](https://cenkkurtoglu.com/templates)** · **[Get all 20 for $79 → Gumroad](https://cengokurtoglu.gumroad.com/l/vuhstz?utm_source=github&utm_medium=referral&utm_campaign=bundle79)**
 
@@ -12,11 +12,11 @@
 Every template includes:
 
 - **Multi-page structure** (5–8 pages per template)
-- **Working forms** — contact, booking, reservation, registration (no backend required for demo)
-- **Next.js 16 App Router** — SSG-optimized, Vercel-ready
-- **Tailwind CSS v4** — fully responsive, mobile-first
-- **TypeScript (strict)** — zero `any`, clean types
-- **Single-file configuration** — change name, colors, content from one config file
+- **Demo form flows** — contact, booking, reservation, and registration interfaces; production submission requires your own backend or form service
+- **Next.js 15.1 App Router** — adaptable starter architecture
+- **React 19 + Tailwind CSS 3.4** — responsive interface foundations
+- **TypeScript** — editable source included
+- **Demo content and assets** — replace names, claims, images, contact details, legal copy, pricing, and policies before client use
 - **next/image** optimized assets, **next/font** for fonts
 
 ---
@@ -94,7 +94,7 @@ Every template includes:
 | Standard agency template | **$100** | Meridian standalone animated build |
 | Premium agency template | **$250** | Nexus Studio standalone cinematic 3D build |
 
-**[Browse the live catalog](https://cenkkurtoglu.com/templates)** · **[Buy the $79 bundle on Gumroad](https://cengokurtoglu.gumroad.com/l/vuhstz?utm_source=github&utm_medium=referral&utm_campaign=bundle79)**
+**[Browse the live catalog](https://cenkkurtoglu.com/templates)** · **[Buy the $79 bundle on Gumroad](https://cengokurtoglu.gumroad.com/l/vuhstz?utm_source=github&utm_medium=referral&utm_campaign=bundle79)** · **[Read the buyer guide](BUYER_GUIDE.md)**
 
 ---
 
@@ -121,10 +121,10 @@ Want to try before you buy?
 
 ## Tech Stack
 
-![Next.js](https://img.shields.io/badge/Next.js-16-black?logo=next.js)
-![TypeScript](https://img.shields.io/badge/TypeScript-strict-blue?logo=typescript)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-v4-38bdf8?logo=tailwindcss)
-![React](https://img.shields.io/badge/React-18-61dafb?logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-15.1-black?logo=next.js)
+![TypeScript](https://img.shields.io/badge/TypeScript-blue?logo=typescript)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.4-38bdf8?logo=tailwindcss)
+![React](https://img.shields.io/badge/React-19-61dafb?logo=react)
 ![Vercel](https://img.shields.io/badge/Vercel-deployed-black?logo=vercel)
 
 ---
@@ -135,13 +135,13 @@ Want to try before you buy?
 A: Yes — purchase through the [$79 Gumroad checkout](https://cengokurtoglu.gumroad.com/l/vuhstz?utm_source=github&utm_medium=referral&utm_campaign=agency_starters), and you receive the full source code as ZIP downloads.
 
 **Q: Do I need a backend?**  
-A: No. Forms work with client-side handlers out of the box. You can plug in Resend, Nodemailer, or any form service.
+A: The included forms are demo interfaces. Connect a real backend or form service such as Resend before production, then test validation, delivery, spam protection, consent, and error handling.
 
 **Q: Can I use this for client work?**  
 A: Yes. The bundle includes a commercial client-work license. See the checkout terms for the exact license scope.
 
 **Q: Next.js version?**  
-A: All templates use **Next.js 16 App Router + Tailwind CSS v4**. Tested on Node 18+, deploys in one click to Vercel.
+A: The currently inspected bundle sources use **Next.js 15.1, React 19, and Tailwind CSS 3.4**. Check the checkout and included README files for the exact version delivered with your purchase.
 
 ---
 
