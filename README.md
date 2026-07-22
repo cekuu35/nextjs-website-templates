@@ -89,7 +89,7 @@ Every template includes:
 
 | Option | Price | What You Get |
 |--------|-------|--------------|
-| Bundle (all 20) | **$79 one-time** | Full source ZIPs, commercial client-work license, lifetime updates |
+| Bundle (all 20) | **$79 one-time** | Full source ZIPs and commercial client-work license |
 | Basic agency template | **$50** | Clean Studio standalone build |
 | Standard agency template | **$100** | Meridian standalone animated build |
 | Premium agency template | **$250** | Nexus Studio standalone cinematic 3D build |
