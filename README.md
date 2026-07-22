@@ -37,7 +37,7 @@ Every template includes:
 |----------|-------|-----------|-------|
 | **Digital Agency** | Agency / Creative | [Live Demo](https://03-digital-agency.vercel.app) | Home, Services, Work/Case Studies, About, Contact |
 | **Photography Portfolio** | Photography | [Live Demo](https://12-photography-portfolio.vercel.app) | Home, Gallery (categorized), About, Packages, Booking |
-| **Personal CV** | Portfolio / Resume | [Live Demo](https://20-personal-cv.vercel.app) | Home, About/Resume, Projects, Blog, Contact |
+| **Personal CV** | Portfolio / Resume | [Live Demo](https://free-nextjs-cv-template.vercel.app) | Home, About/Resume, Projects, Blog, Contact |
 
 ### Food & Hospitality
 
