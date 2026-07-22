@@ -1,6 +1,6 @@
 # 20 Production-Ready Next.js Website Templates
 
-> **Next.js 15 + Tailwind CSS + TypeScript** — multi-page, fully working websites.  
+> **Next.js 16 + Tailwind CSS v4 + TypeScript** — multi-page, fully working websites.  
 > Not blank landing pages. Each template ships with **5+ pages**, working contact/booking forms, proper routing, and single-file configuration.
 
 **[Browse 20 live demos → cenkkurtoglu.com/templates](https://cenkkurtoglu.com/templates)** · **[Get all 20 for $79 → Gumroad](https://cengokurtoglu.gumroad.com/l/vuhstz?utm_source=github&utm_medium=referral&utm_campaign=bundle79)**
@@ -13,8 +13,8 @@ Every template includes:
 
 - **Multi-page structure** (5–8 pages per template)
 - **Working forms** — contact, booking, reservation, registration (no backend required for demo)
-- **Next.js 15 App Router** — SSG-optimized, Vercel-ready
-- **Tailwind CSS v3** — fully responsive, mobile-first
+- **Next.js 16 App Router** — SSG-optimized, Vercel-ready
+- **Tailwind CSS v4** — fully responsive, mobile-first
 - **TypeScript (strict)** — zero `any`, clean types
 - **Single-file configuration** — change name, colors, content from one config file
 - **next/image** optimized assets, **next/font** for fonts
@@ -108,9 +108,9 @@ Want to try before you buy?
 
 ## Tech Stack
 
-![Next.js](https://img.shields.io/badge/Next.js-15-black?logo=next.js)
+![Next.js](https://img.shields.io/badge/Next.js-16-black?logo=next.js)
 ![TypeScript](https://img.shields.io/badge/TypeScript-strict-blue?logo=typescript)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-v3-38bdf8?logo=tailwindcss)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-v4-38bdf8?logo=tailwindcss)
 ![React](https://img.shields.io/badge/React-18-61dafb?logo=react)
 ![Vercel](https://img.shields.io/badge/Vercel-deployed-black?logo=vercel)
 
@@ -128,7 +128,7 @@ A: No. Forms work with client-side handlers out of the box. You can plug in Rese
 A: Yes. The bundle includes a commercial client-work license. See the checkout terms for the exact license scope.
 
 **Q: Next.js version?**  
-A: All templates use **Next.js 15 App Router**. Tested on Node 18+, deploys in one click to Vercel.
+A: All templates use **Next.js 16 App Router + Tailwind CSS v4**. Tested on Node 18+, deploys in one click to Vercel.
 
 ---
 
