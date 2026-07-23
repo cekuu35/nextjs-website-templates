@@ -7,6 +7,8 @@
 
 **[Explore the $79 bundle and selected live demos →](https://nextjs-template-bundle.anakinsky3535.chatgpt.site?utm_source=github&utm_medium=referral&utm_campaign=bundle79)** · **[Get all 20 for $79 → Gumroad](https://cengokurtoglu.gumroad.com/l/vuhstz?utm_source=github&utm_medium=referral&utm_campaign=bundle79)**
 
+**Not seeing the right client niche? [Request a starting point](https://github.com/cekuu35/nextjs-website-templates/issues/new?template=niche-request.yml) — no purchase or private client details required.**
+
 ---
 
 ## What's Inside
