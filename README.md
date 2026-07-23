@@ -1,7 +1,7 @@
 # 20 Next.js Templates for Agencies & Freelancers
 
 > **Next.js 15.1 + React 19 + Tailwind CSS 3.4 + TypeScript** — 20 multi-page starter sites designed for agency pitches and client builds.  
-> Skip the blank canvas, show a credible first direction sooner, then spend your time on the client’s brand, content, and experience. Forms and commerce/booking actions are demo UI flows; connect and test your own production backend before client delivery.
+> Skip the blank canvas, show a credible first direction sooner, then spend your time on the client’s brand, content, and experience. **All demo client names, testimonials, metrics, awards, availability claims, phone numbers, and email addresses are fictional placeholders—not product results or endorsements.** Forms and commerce/booking actions are demo UI flows; replace all placeholders, connect a production backend, and test it before client delivery.
 
 **[Explore the $79 bundle and selected live demos →](https://nextjs-template-bundle.anakinsky3535.chatgpt.site?utm_source=github&utm_medium=referral&utm_campaign=bundle79)** · **[Get all 20 for $79 → Gumroad](https://cengokurtoglu.gumroad.com/l/vuhstz?utm_source=github&utm_medium=referral&utm_campaign=bundle79)**
 
