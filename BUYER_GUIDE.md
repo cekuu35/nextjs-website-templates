@@ -2,7 +2,7 @@
 
 This repository is the public showcase for Cenk Kurtoğlu's 20-template website bundle.
 
-- Direct checkout: https://cengokurtoglu.gumroad.com/l/vuhstz?utm_source=github&utm_medium=referral&utm_campaign=buyer_guide
+- Direct checkout: https://cengokurtoglu.gumroad.com/l/vuhstz?wanted=true&utm_source=github&utm_medium=referral&utm_campaign=buyer_guide
 - Current checkout price verified on 23 July 2026: **$79 USD one-time**
 - Selected live demos: https://nextjs-template-bundle.anakinsky3535.chatgpt.site?utm_source=github&utm_medium=referral&utm_campaign=buyer_guide_demos
 
@@ -60,4 +60,4 @@ See [DEMO_CONTENT_CHECKLIST.md](DEMO_CONTENT_CHECKLIST.md) for the pre-delivery 
 
 The Gumroad product page is the source of truth for the license, files delivered, update terms, refunds, and current price. Confirm those terms at checkout before purchasing. This public repository does not contain the paid source bundle.
 
-**[Get all 20 Next.js and Tailwind source templates for $79 →](https://cengokurtoglu.gumroad.com/l/vuhstz?utm_source=github&utm_medium=referral&utm_campaign=buyer_guide_footer)**
+**[Get all 20 Next.js and Tailwind source templates for $79 →](https://cengokurtoglu.gumroad.com/l/vuhstz?wanted=true&utm_source=github&utm_medium=referral&utm_campaign=buyer_guide_footer)**
