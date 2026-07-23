@@ -1,13 +1,13 @@
 # 20 Next.js Templates for Agencies & Freelancers
 
-[![20 Next.js and Tailwind starter sites — $79](assets/bundle-cover.svg)](https://cengokurtoglu.gumroad.com/l/vuhstz?utm_source=github&utm_medium=hero&utm_campaign=bundle_cover)
+[![20 Next.js and Tailwind starter sites — $79](assets/bundle-cover.svg)](https://cengokurtoglu.gumroad.com/l/vuhstz?wanted=true&utm_source=github&utm_medium=hero&utm_campaign=bundle_cover)
 
 [![Public demo link health](https://github.com/cekuu35/nextjs-website-templates/actions/workflows/demo-link-health.yml/badge.svg)](https://github.com/cekuu35/nextjs-website-templates/actions/workflows/demo-link-health.yml)
 
 > **Next.js 15.1 + React 19 + Tailwind CSS 3.4 + TypeScript** — 20 multi-page starter sites designed for agency pitches and client builds.  
 > Skip the blank canvas, show a credible first direction sooner, then spend your time on the client’s brand, content, and experience. **All demo client names, testimonials, metrics, awards, availability claims, phone numbers, and email addresses are fictional placeholders—not product results or endorsements.** Forms and commerce/booking actions are demo UI flows; replace all placeholders, connect a production backend, and test it before client delivery.
 
-**[Explore the $79 bundle and selected live demos →](https://nextjs-template-bundle.anakinsky3535.chatgpt.site?utm_source=github&utm_medium=referral&utm_campaign=bundle79)** · **[Get all 20 for $79 → Gumroad](https://cengokurtoglu.gumroad.com/l/vuhstz?utm_source=github&utm_medium=referral&utm_campaign=bundle79)**
+**[Explore the $79 bundle and selected live demos →](https://nextjs-template-bundle.anakinsky3535.chatgpt.site?utm_source=github&utm_medium=referral&utm_campaign=bundle79)** · **[Get all 20 for $79 → Gumroad](https://cengokurtoglu.gumroad.com/l/vuhstz?wanted=true&utm_source=github&utm_medium=referral&utm_campaign=bundle79)**
 
 **Not seeing the right client niche? [Request a starting point](https://github.com/cekuu35/nextjs-website-templates/issues/new?template=niche-request.yml) — no purchase or private client details required.**
 
@@ -35,7 +35,7 @@ This bundle is for freelancers and agencies that need **multiple client-facing v
 - Use the live demos to discuss a visual direction, then replace all placeholder content and connect the production services the client actually needs.
 - Pick a full-stack SaaS boilerplate instead if your main requirement is prebuilt authentication, billing, database, or application logic.
 
-**[Compare the 20 live directions and get the $79 source bundle →](https://cengokurtoglu.gumroad.com/l/vuhstz?utm_source=github&utm_medium=referral&utm_campaign=agency_template_comparison)**
+**[Compare the 20 live directions and get the $79 source bundle →](https://cengokurtoglu.gumroad.com/l/vuhstz?wanted=true&utm_source=github&utm_medium=referral&utm_campaign=agency_template_comparison)**
 
 ---
 
@@ -51,7 +51,7 @@ Choose by the work you need to start—not by the longest feature list.
 
 The bundle is the practical fit when **breadth of client-facing starting points** matters more than prebuilt backend infrastructure.
 
-**[Review the included directions and get all 20 for $79 →](https://cengokurtoglu.gumroad.com/l/vuhstz?utm_source=github&utm_medium=referral&utm_campaign=bundle_vs_alternatives)**
+**[Review the included directions and get all 20 for $79 →](https://cengokurtoglu.gumroad.com/l/vuhstz?wanted=true&utm_source=github&utm_medium=referral&utm_campaign=bundle_vs_alternatives)**
 
 ---
 
@@ -123,7 +123,7 @@ The bundle is the practical fit when **breadth of client-facing starting points*
 
 **All 20 templates: $79 one-time.** The purchase includes the editable source ZIPs and a commercial client-work license.
 
-**[Preview the bundle →](https://nextjs-template-bundle.anakinsky3535.chatgpt.site?utm_source=github&utm_medium=referral&utm_campaign=pricing_preview)** · **[Get all 20 for $79 on Gumroad →](https://cengokurtoglu.gumroad.com/l/vuhstz?utm_source=github&utm_medium=referral&utm_campaign=pricing_checkout)** · **[Read the buyer guide](BUYER_GUIDE.md)**
+**[Preview the bundle →](https://nextjs-template-bundle.anakinsky3535.chatgpt.site?utm_source=github&utm_medium=referral&utm_campaign=pricing_preview)** · **[Get all 20 for $79 on Gumroad →](https://cengokurtoglu.gumroad.com/l/vuhstz?wanted=true&utm_source=github&utm_medium=referral&utm_campaign=pricing_checkout)** · **[Read the buyer guide](BUYER_GUIDE.md)**
 
 ---
 
@@ -148,7 +148,7 @@ Want to try before you buy?
 ## FAQ
 
 **Q: Is source code included?**  
-A: Yes — purchase through the [$79 Gumroad checkout](https://cengokurtoglu.gumroad.com/l/vuhstz?utm_source=github&utm_medium=referral&utm_campaign=agency_starters), and you receive the full source code as ZIP downloads.
+A: Yes — purchase through the [$79 Gumroad checkout](https://cengokurtoglu.gumroad.com/l/vuhstz?wanted=true&utm_source=github&utm_medium=referral&utm_campaign=agency_starters), and you receive the full source code as ZIP downloads.
 
 **Q: Do I need a backend?**  
 A: The included forms are demo interfaces. Connect a real backend or form service such as Resend before production, then test validation, delivery, spam protection, consent, and error handling.
@@ -167,5 +167,5 @@ Search engines, directories, and AI agents can read the current verified offer i
 
 ---
 
-*This repository is a marketing showcase. [Get the full source bundle for $79 on Gumroad](https://cengokurtoglu.gumroad.com/l/vuhstz?utm_source=github&utm_medium=referral&utm_campaign=showcase_footer).*
+*This repository is a marketing showcase. [Get the full source bundle for $79 on Gumroad](https://cengokurtoglu.gumroad.com/l/vuhstz?wanted=true&utm_source=github&utm_medium=referral&utm_campaign=showcase_footer).*
 
