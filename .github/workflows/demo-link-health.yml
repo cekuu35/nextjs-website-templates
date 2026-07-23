@@ -1,0 +1,58 @@
+name: Demo link health
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 6 * * 1"
+  push:
+    branches:
+      - main
+    paths:
+      - README.md
+      - .github/workflows/demo-link-health.yml
+
+permissions:
+  contents: read
+
+concurrency:
+  group: demo-link-health
+  cancel-in-progress: true
+
+jobs:
+  check:
+    name: Check public demo
+    runs-on: ubuntu-latest
+    timeout-minutes: 12
+    strategy:
+      fail-fast: false
+      matrix:
+        url:
+          - "https://01-modern-saas.vercel.app"
+          - "https://02-ai-startup.vercel.app"
+          - "https://03-digital-agency.vercel.app"
+          - "https://04-restaurant-cafe.vercel.app"
+          - "https://05-real-estate.vercel.app"
+          - "https://06-fitness-gym.vercel.app"
+          - "https://07-ecommerce-store.vercel.app"
+          - "https://08-online-course.vercel.app"
+          - "https://09-dental-clinic.vercel.app"
+          - "https://10-restaurant-reservation.vercel.app"
+          - "https://11-barber-salon.vercel.app"
+          - "https://12-photography-portfolio.vercel.app"
+          - "https://13-event-conference.vercel.app"
+          - "https://14-web3-crypto.vercel.app"
+          - "https://15-mobile-app.vercel.app"
+          - "https://16-newsletter-creator.vercel.app"
+          - "https://17-hotel-booking.vercel.app"
+          - "https://18-construction.vercel.app"
+          - "https://19-law-firm.vercel.app"
+          - "https://free-nextjs-cv-template.vercel.app"
+          - "https://cekuu35.github.io/nextjs-template-bundle/"
+    steps:
+      - name: Check URL
+        env:
+          URL: ${{ matrix.url }}
+        run: |
+          curl --fail --location --silent --show-error \
+            --retry 2 --retry-all-errors --max-time 30 \
+            --output /dev/null "$URL"
