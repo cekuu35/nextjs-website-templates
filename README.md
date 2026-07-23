@@ -157,7 +157,7 @@ A: The currently inspected bundle sources use **Next.js 15.1, React 19, and Tail
 
 ---
 
-*This repository is a marketing showcase. Full source code is available at [cenkkurtoglu.com](https://cenkkurtoglu.com).*
+*This repository is a marketing showcase. [Get the full source bundle for $79 on Gumroad](https://cengokurtoglu.gumroad.com/l/vuhstz?utm_source=github&utm_medium=referral&utm_campaign=showcase_footer).*
 
 
 ---
