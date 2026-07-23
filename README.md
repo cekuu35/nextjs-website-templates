@@ -143,11 +143,3 @@ A: The currently inspected bundle sources use **Next.js 15.1, React 19, and Tail
 
 *This repository is a marketing showcase. [Get the full source bundle for $79 on Gumroad](https://cengokurtoglu.gumroad.com/l/vuhstz?utm_source=github&utm_medium=referral&utm_campaign=showcase_footer).*
 
-
----
-
-## ▶️ Run it on Replit (no setup)
-[![Try on Replit](https://img.shields.io/badge/Try%20it%20on-Replit-F26207?logo=replit&logoColor=white)](https://replit.com/signup?referral=cnkkurtoglu&trackingContext=artifact_loading)
-
-Prefer building in the browser? Clone and run this on Replit in one click.
-New to Replit? **[Sign up for $20 in free credits »](https://replit.com/signup?referral=cnkkurtoglu&trackingContext=artifact_loading)**.
