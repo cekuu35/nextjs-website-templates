@@ -2,6 +2,8 @@
 
 [![20 Next.js and Tailwind starter sites — $79](assets/bundle-cover.svg)](https://cengokurtoglu.gumroad.com/l/vuhstz?utm_source=github&utm_medium=hero&utm_campaign=bundle_cover)
 
+[![Public demo link health](https://github.com/cekuu35/nextjs-website-templates/actions/workflows/demo-link-health.yml/badge.svg)](https://github.com/cekuu35/nextjs-website-templates/actions/workflows/demo-link-health.yml)
+
 > **Next.js 15.1 + React 19 + Tailwind CSS 3.4 + TypeScript** — 20 multi-page starter sites designed for agency pitches and client builds.  
 > Skip the blank canvas, show a credible first direction sooner, then spend your time on the client’s brand, content, and experience. **All demo client names, testimonials, metrics, awards, availability claims, phone numbers, and email addresses are fictional placeholders—not product results or endorsements.** Forms and commerce/booking actions are demo UI flows; replace all placeholders, connect a production backend, and test it before client delivery.
 
