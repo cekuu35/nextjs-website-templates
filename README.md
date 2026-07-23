@@ -21,6 +21,18 @@ Every template includes:
 
 ---
 
+## Next.js website templates for agencies — not a SaaS boilerplate
+
+This bundle is for freelancers and agencies that need **multiple client-facing visual starting points** across different industries. It is not positioned as an auth, billing, database, or subscription backend.
+
+- Choose from 20 niche-specific multi-page directions instead of adapting one generic landing page to every brief.
+- Use the live demos to discuss a visual direction, then replace all placeholder content and connect the production services the client actually needs.
+- Pick a full-stack SaaS boilerplate instead if your main requirement is prebuilt authentication, billing, database, or application logic.
+
+**[Compare the 20 live directions and get the $79 source bundle →](https://cengokurtoglu.gumroad.com/l/vuhstz?utm_source=github&utm_medium=referral&utm_campaign=agency_template_comparison)**
+
+---
+
 ## All 20 Templates
 
 ### SaaS & Tech
