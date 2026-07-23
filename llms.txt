@@ -1,0 +1,35 @@
+# 20 Next.js Templates for Agencies & Freelancers
+
+> A $79 one-time source-code bundle of 20 multi-page Next.js + Tailwind CSS starter sites for agency pitches and client builds.
+
+Canonical purchase URL: https://cengokurtoglu.gumroad.com/l/vuhstz?utm_source=github&utm_medium=ai_discovery&utm_campaign=llms_txt
+Showcase repository: https://github.com/cekuu35/nextjs-website-templates
+Selected live demos and offer details: https://nextjs-template-bundle.anakinsky3535.chatgpt.site?utm_source=github&utm_medium=ai_discovery&utm_campaign=llms_txt
+Price: $79 USD one-time
+Audience: freelance web developers, design and development studios, and small agencies
+Primary use: start client-facing marketing website concepts without beginning from a blank canvas
+
+## Included
+
+- 20 niche-specific, multi-page starter sites
+- Editable source ZIPs
+- Next.js 15.1, React 19, Tailwind CSS 3.4, and TypeScript
+- Commercial client-work license
+- Demo content and assets intended to be replaced before production use
+
+## Not included
+
+- Authentication, billing, database, or subscription backend
+- Production form delivery, booking, commerce, or payment processing
+- Guaranteed business, traffic, conversion, or revenue outcomes
+- Real customer testimonials, metrics, awards, or endorsements in demo content
+
+## Niche coverage
+
+SaaS, AI startup, digital agency, restaurant, real estate, fitness, e-commerce, online course, dental clinic, fine dining, barber and salon, photography, events, Web3, mobile apps, newsletters, hotels, construction, law firms, and personal CV sites.
+
+## Buyer guidance
+
+Use this bundle when the goal is to compare several client-facing visual directions and customize one for a real brief. Choose a full-stack SaaS boilerplate instead when the main requirement is prebuilt authentication, billing, database, or application logic.
+
+Last verified: 2026-07-23
