@@ -8,7 +8,7 @@
     "@type": "Brand",
     "name": "Cenk Kurtoğlu"
   },
-  "url": "https://cengokurtoglu.gumroad.com/l/vuhstz?utm_source=github&utm_medium=structured_data&utm_campaign=30d_engine",
+  "url": "https://cengokurtoglu.gumroad.com/l/vuhstz?wanted=true&utm_source=github&utm_medium=structured_data&utm_campaign=30d_engine",
   "isRelatedTo": {
     "@type": "WebPage",
     "name": "Live template catalog",
@@ -48,7 +48,7 @@
   ],
   "offers": {
     "@type": "Offer",
-    "url": "https://cengokurtoglu.gumroad.com/l/vuhstz?utm_source=github&utm_medium=structured_data&utm_campaign=30d_engine",
+    "url": "https://cengokurtoglu.gumroad.com/l/vuhstz?wanted=true&utm_source=github&utm_medium=structured_data&utm_campaign=30d_engine",
     "priceCurrency": "USD",
     "price": "79.00",
     "availability": "https://schema.org/InStock",
