@@ -99,27 +99,9 @@ This bundle is for freelancers and agencies that need **multiple client-facing v
 
 ## Pricing
 
-| Option | Price | What You Get |
-|--------|-------|--------------|
-| Bundle (all 20) | **$79 one-time** | Full source ZIPs and commercial client-work license |
-| Basic agency template | **$50** | Clean Studio standalone build |
-| Standard agency template | **$100** | Meridian standalone animated build |
-| Premium agency template | **$250** | Nexus Studio standalone cinematic 3D build |
+**All 20 templates: $79 one-time.** The purchase includes the editable source ZIPs and a commercial client-work license.
 
-**[Browse the live catalog](https://cenkkurtoglu.com/templates)** · **[Buy the $79 bundle on Gumroad](https://cengokurtoglu.gumroad.com/l/vuhstz?utm_source=github&utm_medium=referral&utm_campaign=bundle79)** · **[Read the buyer guide](BUYER_GUIDE.md)**
-
----
-
-## Advanced 3D source foundation
-
-For developers and agencies building a reusable browser-based GLB/glTF workspace—not just a single themed website—**3D Studio Foundation** is a verified, brand-neutral Next.js 16 + React 19 + TypeScript source package.
-
-- **Developer License — $499:** private source for one commercial end product, documentation, and 7 days of limited setup clarification.
-- **Assisted Launch — $999:** the source package plus one buyer-supplied asset integration, basic branding, one buyer-owned deployment, up to 4 hours of scoped adaptation, and 14 days of defect support.
-
-**[Review the verified scope, exclusions, and licensing →](https://studio3d-foundation.anakinsky3535.chatgpt.site?utm_source=github&utm_medium=referral&utm_campaign=3d_studio_foundation)**
-
-This is a separate source-code package, not an operating SaaS business. Licensing currently starts with an inquiry on the offer page.
+**[Preview the bundle →](https://nextjs-template-bundle.anakinsky3535.chatgpt.site?utm_source=github&utm_medium=referral&utm_campaign=pricing_preview)** · **[Get all 20 for $79 on Gumroad →](https://cengokurtoglu.gumroad.com/l/vuhstz?utm_source=github&utm_medium=referral&utm_campaign=pricing_checkout)** · **[Read the buyer guide](BUYER_GUIDE.md)**
 
 ---
 
