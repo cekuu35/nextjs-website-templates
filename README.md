@@ -141,5 +141,11 @@ A: The currently inspected bundle sources use **Next.js 15.1, React 19, and Tail
 
 ---
 
+## Machine-readable product data
+
+Search engines, directories, and AI agents can read the current verified offer in [`product.json`](product.json): **20 templates, $79 USD, direct Gumroad checkout, no subscription**.
+
+---
+
 *This repository is a marketing showcase. [Get the full source bundle for $79 on Gumroad](https://cengokurtoglu.gumroad.com/l/vuhstz?utm_source=github&utm_medium=referral&utm_campaign=showcase_footer).*
 
