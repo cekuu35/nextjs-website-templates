@@ -2,7 +2,7 @@
 
 > A $79 one-time source-code bundle of 20 multi-page Next.js + Tailwind CSS starter sites for agency pitches and client builds.
 
-Canonical purchase URL: https://cengokurtoglu.gumroad.com/l/vuhstz?utm_source=github&utm_medium=ai_discovery&utm_campaign=llms_txt
+Canonical purchase URL: https://cengokurtoglu.gumroad.com/l/vuhstz?wanted=true&utm_source=github&utm_medium=ai_discovery&utm_campaign=llms_txt
 Showcase repository: https://github.com/cekuu35/nextjs-website-templates
 Selected live demos and offer details: https://nextjs-template-bundle.anakinsky3535.chatgpt.site?utm_source=github&utm_medium=ai_discovery&utm_campaign=llms_txt
 Price: $79 USD one-time
