@@ -1,20 +1,20 @@
 # 20 Next.js Templates for Agencies & Freelancers
 
-> A $79 one-time source-code bundle of 20 multi-page Next.js + Tailwind CSS starter sites for agency pitches and client builds.
+> A 20-site Next.js + Tailwind CSS source bundle for agency pitches and client builds. List price $79; LAUNCH20 currently reduces the pre-tax, pre-conversion subtotal to $63.20 when Gumroad accepts the code.
 
-Canonical purchase URL: https://cengokurtoglu.gumroad.com/l/vuhstz?wanted=true&utm_source=github&utm_medium=ai_discovery&utm_campaign=llms_txt
+Canonical purchase URL: https://cengokurtoglu.gumroad.com/l/vuhstz/LAUNCH20?wanted=true&utm_source=github&utm_medium=ai_discovery&utm_campaign=llms_txt
 Showcase repository: https://github.com/cekuu35/nextjs-website-templates
 Selected live demos and offer details: https://nextjs-template-bundle.anakinsky3535.chatgpt.site?utm_source=github&utm_medium=ai_discovery&utm_campaign=llms_txt
-Price: $79 USD one-time
+Price: list $79 USD; $63.20 USD with LAUNCH20 when Gumroad accepts the code
 Audience: freelance web developers, design and development studios, and small agencies
 Primary use: start client-facing marketing website concepts without beginning from a blank canvas
 
 ## Included
 
 - 20 niche-specific, multi-page starter sites
-- Editable source ZIPs
+- One 17.7 MB ZIP containing 20 editable source folders
 - Next.js 15.1, React 19, Tailwind CSS 3.4, and TypeScript
-- Commercial client-work license
+- Public checkout does not currently state commercial-use or redistribution terms; confirm them before client delivery
 - Demo content and assets intended to be replaced before production use
 
 ## Not included
