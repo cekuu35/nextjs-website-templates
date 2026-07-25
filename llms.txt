@@ -4,8 +4,8 @@
 
 Canonical purchase URL: https://cengokurtoglu.gumroad.com/l/vuhstz/LAUNCH20?wanted=true&utm_source=github&utm_medium=ai_discovery&utm_campaign=llms_txt
 Showcase repository: https://github.com/cekuu35/nextjs-website-templates
-Selected live demos and offer details: https://nextjs-template-bundle.anakinsky3535.chatgpt.site?utm_source=github&utm_medium=ai_discovery&utm_campaign=llms_txt
-Price: list $79 USD; $63.20 USD with LAUNCH20 when Gumroad accepts the code
+All 20 public demos, scope, and offer details: https://cekuu35.github.io/india-nextjs-templates/?utm_source=github&utm_medium=ai_discovery&utm_campaign=india_launch
+Price: list $79 USD; $63.20 USD with LAUNCH20 when Gumroad accepts the code. The code is limited to 20 total uses; no remaining-use count is claimed here.
 Audience: freelance web developers, design and development studios, and small agencies
 Primary use: start client-facing marketing website concepts without beginning from a blank canvas
 
@@ -32,4 +32,4 @@ SaaS, AI startup, digital agency, restaurant, real estate, fitness, e-commerce, 
 
 Use this bundle when the goal is to compare several client-facing visual directions and customize one for a real brief. Choose a full-stack SaaS boilerplate instead when the main requirement is prebuilt authentication, billing, database, or application logic.
 
-Last verified: 2026-07-23
+Checkout, price, currency, code validity, and 17.7 MB ZIP delivery last verified anonymously: 2026-07-25
