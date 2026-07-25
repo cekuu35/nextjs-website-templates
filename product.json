@@ -2,7 +2,7 @@
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "20 Website Templates Bundle — Next.js + Tailwind",
-  "description": "A collection of 20 reusable multi-page Next.js and Tailwind website templates with editable TypeScript source for agency and freelance client work.",
+  "description": "A collection of 20 reusable multi-page Next.js and Tailwind website starters with editable TypeScript source. Confirm commercial-use, client-delivery, and redistribution terms before client work.",
   "category": "Website templates",
   "brand": {
     "@type": "Brand",
@@ -11,8 +11,8 @@
   "url": "https://cengokurtoglu.gumroad.com/l/vuhstz/LAUNCH20?wanted=true&utm_source=github&utm_medium=structured_data&utm_campaign=india_launch",
   "isRelatedTo": {
     "@type": "WebPage",
-    "name": "$63.20 LAUNCH20 bundle preview and checkout",
-    "url": "https://cekuu35.github.io/nextjs-template-bundle/"
+    "name": "20 public demos, verified scope, and $63.20 LAUNCH20 offer",
+    "url": "https://cekuu35.github.io/india-nextjs-templates/"
   },
   "additionalProperty": [
     {
@@ -38,7 +38,12 @@
     {
       "@type": "PropertyValue",
       "name": "Delivery",
-      "value": "Instant digital download"
+      "value": "One 17.7 MB ZIP delivered through Gumroad"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "License scope",
+      "value": "Commercial-use, client-delivery, and redistribution terms are not stated publicly; confirm before purchase"
     }
   ],
   "offers": {
@@ -47,6 +52,7 @@
     "priceCurrency": "USD",
     "price": "63.20",
     "availability": "https://schema.org/InStock",
-    "itemCondition": "https://schema.org/NewCondition"
+    "itemCondition": "https://schema.org/NewCondition",
+    "description": "LAUNCH20 currently applies 20% off the $79 USD list price when Gumroad accepts the code. The code is limited to 20 total uses; Gumroad is the source of truth for validity and final amount."
   }
 }
