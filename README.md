@@ -160,6 +160,9 @@ A: The included forms are demo interfaces. Connect a real backend or form servic
 **Q: Can I use this for client work?**  
 A: The bundle is intended as editable source for agency and freelance workflows, but the current public checkout does not state commercial-use or redistribution terms. Confirm those rights with the seller before purchase and before client delivery.
 
+**Q: What must I replace before client delivery?**  
+A: Review the public [demo-content and client-delivery checklist](DEMO_CONTENT_CHECKLIST.md) before presenting any starter as finished work. It covers placeholder claims and assets, production integrations, legal/privacy content, accessibility, QA, and client sign-off.
+
 **Q: Next.js version?**  
 A: The currently inspected bundle sources use **Next.js 15.1, React 19, and Tailwind CSS 3.4**. Check the checkout and included README files for the exact version delivered with your purchase.
 
