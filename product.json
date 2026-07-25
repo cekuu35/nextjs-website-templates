@@ -8,10 +8,10 @@
     "@type": "Brand",
     "name": "Cenk Kurtoğlu"
   },
-  "url": "https://cengokurtoglu.gumroad.com/l/vuhstz?wanted=true&utm_source=github&utm_medium=structured_data&utm_campaign=30d_engine",
+  "url": "https://cengokurtoglu.gumroad.com/l/vuhstz/LAUNCH20?wanted=true&utm_source=github&utm_medium=structured_data&utm_campaign=india_launch",
   "isRelatedTo": {
     "@type": "WebPage",
-    "name": "$79 bundle preview and checkout",
+    "name": "$63.20 LAUNCH20 bundle preview and checkout",
     "url": "https://cekuu35.github.io/nextjs-template-bundle/"
   },
   "additionalProperty": [
@@ -37,20 +37,15 @@
     },
     {
       "@type": "PropertyValue",
-      "name": "License",
-      "value": "Commercial client-work license"
-    },
-    {
-      "@type": "PropertyValue",
       "name": "Delivery",
       "value": "Instant digital download"
     }
   ],
   "offers": {
     "@type": "Offer",
-    "url": "https://cengokurtoglu.gumroad.com/l/vuhstz?wanted=true&utm_source=github&utm_medium=structured_data&utm_campaign=30d_engine",
+    "url": "https://cengokurtoglu.gumroad.com/l/vuhstz/LAUNCH20?wanted=true&utm_source=github&utm_medium=structured_data&utm_campaign=india_launch",
     "priceCurrency": "USD",
-    "price": "79.00",
+    "price": "63.20",
     "availability": "https://schema.org/InStock",
     "itemCondition": "https://schema.org/NewCondition"
   }
