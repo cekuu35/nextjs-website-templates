@@ -4,7 +4,7 @@ This repository is the public showcase for Cenk Kurtoğlu's 20-template website 
 
 - Direct checkout: https://cengokurtoglu.gumroad.com/l/vuhstz/LAUNCH20?wanted=true&utm_source=github&utm_medium=referral&utm_campaign=buyer_guide
 - Current checkout price verified on 25 July 2026: **$63.20 USD with LAUNCH20** (normally $79) when Gumroad accepts the code
-- Selected live demos: https://nextjs-template-bundle.anakinsky3535.chatgpt.site?utm_source=github&utm_medium=referral&utm_campaign=buyer_guide_demos
+- All 20 public demos and verified scope: https://cekuu35.github.io/india-nextjs-templates/?utm_source=github&utm_medium=referral&utm_campaign=buyer_guide_demos
 
 ## Who the bundle is for
 
