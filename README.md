@@ -9,7 +9,7 @@
 
 **[Review all 20 demos, scope and limitations →](https://cekuu35.github.io/india-nextjs-templates/?utm_source=github&utm_medium=referral&utm_campaign=india_launch)** · **[Get all 20 for $63.20 with LAUNCH20 → Gumroad](https://cengokurtoglu.gumroad.com/l/vuhstz/LAUNCH20?wanted=true&utm_source=github&utm_medium=referral&utm_campaign=india_launch)**
 
-> **Launch offer:** LAUNCH20 currently applies 20% off the $79 USD list price. The code is limited to 20 total uses; this README does not claim how many remain. Gumroad checkout is the source of truth for validity, final price, taxes, conversion, and payment methods.
+> **Launch offer:** LAUNCH20 currently applies 20% off the $79 USD list price when Gumroad accepts the code. Gumroad checkout is the source of truth for code validity, final price, taxes, conversion, and payment methods.
 
 **Not seeing the right client niche? [Request a starting point](https://github.com/cekuu35/nextjs-website-templates/issues/new?template=niche-request.yml) — no purchase or private client details required.**
 
@@ -152,13 +152,13 @@ Want to try before you buy?
 ## FAQ
 
 **Q: Is source code included?**  
-A: Yes — the verified [$63.20 LAUNCH20 checkout](https://cengokurtoglu.gumroad.com/l/vuhstz/LAUNCH20?wanted=true&utm_source=github&utm_medium=referral&utm_campaign=india_launch_faq) delivers one 17.7 MB ZIP containing the editable source folders while the limited-use code remains valid.
+A: The inspected [$63.20 LAUNCH20 checkout](https://cengokurtoglu.gumroad.com/l/vuhstz/LAUNCH20?wanted=true&utm_source=github&utm_medium=referral&utm_campaign=india_launch_faq) currently delivers one 17.7 MB ZIP containing the editable source folders when Gumroad accepts the code.
 
 **Q: Do I need a backend?**  
 A: The included forms are demo interfaces. Connect a real backend or form service such as Resend before production, then test validation, delivery, spam protection, consent, and error handling.
 
 **Q: Can I use this for client work?**  
-A: Yes. The bundle includes a commercial client-work license. See the checkout terms for the exact license scope.
+A: The bundle is intended as editable source for agency and freelance workflows, but the current public checkout does not state commercial-use or redistribution terms. Confirm those rights with the seller before purchase and before client delivery.
 
 **Q: Next.js version?**  
 A: The currently inspected bundle sources use **Next.js 15.1, React 19, and Tailwind CSS 3.4**. Check the checkout and included README files for the exact version delivered with your purchase.
@@ -171,4 +171,4 @@ Search engines, directories, and AI agents can read the current verified offer i
 
 ---
 
-*This repository is a marketing showcase. [Get the full source bundle for $63.20 with LAUNCH20 on Gumroad](https://cengokurtoglu.gumroad.com/l/vuhstz/LAUNCH20?wanted=true&utm_source=github&utm_medium=referral&utm_campaign=india_launch_footer) while the limited-use code remains valid.*
+*This repository is a marketing showcase. [Get the full source bundle for $63.20 with LAUNCH20 on Gumroad](https://cengokurtoglu.gumroad.com/l/vuhstz/LAUNCH20?wanted=true&utm_source=github&utm_medium=referral&utm_campaign=india_launch_footer) while Gumroad accepts the code.*
