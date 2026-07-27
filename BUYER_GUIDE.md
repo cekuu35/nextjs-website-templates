@@ -2,8 +2,8 @@
 
 This repository is the public showcase for Cenk Kurtoğlu's 20-template website bundle.
 
-- Direct checkout: https://cengokurtoglu.gumroad.com/l/vuhstz/LAUNCH20?wanted=true&utm_source=github&utm_medium=referral&utm_campaign=buyer_guide
-- Current checkout price verified on 25 July 2026: **$63.20 USD with LAUNCH20** (normally $79) when Gumroad accepts the code
+- Commercial checkout promotion: **paused pending owner verification**
+- Historical price and discount claims are not a current approved offer
 - All 20 public demos and verified scope: https://cekuu35.github.io/india-nextjs-templates/?utm_source=github&utm_medium=referral&utm_campaign=buyer_guide_demos
 
 ## Who the bundle is for
@@ -26,7 +26,7 @@ It is **not** a SaaS boilerplate. Authentication, billing, databases, production
 | Local business or appointment-led website | Restaurant, Hotel, Dental Clinic, Barber & Salon, Fitness |
 | Product, startup, or creator marketing site | Modern SaaS, AI Startup, Mobile App, Newsletter, Online Course |
 
-All 20 source templates are included in the same **$63.20 LAUNCH20 checkout** (normally $79). Choose the closest visual and page-structure direction, then adapt it to the client's real brand and requirements.
+The public repository lets you compare all 20 visual and page-structure directions. Do not purchase, reuse, or deliver the commercial package until the owner publishes and re-approves the exact license and delivery terms.
 
 ## Verified source stack
 
@@ -58,6 +58,6 @@ See [DEMO_CONTENT_CHECKLIST.md](DEMO_CONTENT_CHECKLIST.md) for the pre-delivery 
 
 ## License and delivery
 
-The Gumroad product page is the current source of truth for the files delivered and the amount shown at checkout. Commercial-use, redistribution, update, support, and refund terms are not currently stated on the public product page; confirm them with the seller before purchase and before delivering client work. This public repository does not contain the paid source bundle.
+Commercial-use, client-delivery, redistribution, update, support, and refund/broken-file terms are not currently stated in an owner-approved public contract. Checkout promotion is therefore paused. This public repository does not contain the paid source bundle.
 
-**[Get all 20 Next.js and Tailwind source templates for $63.20 with LAUNCH20 →](https://cengokurtoglu.gumroad.com/l/vuhstz/LAUNCH20?wanted=true&utm_source=github&utm_medium=referral&utm_campaign=buyer_guide_footer)**
+**[Review all 20 public demos and documented limitations →](https://cekuu35.github.io/india-nextjs-templates/?utm_source=github&utm_medium=referral&utm_campaign=template_scope_review&utm_content=buyer_guide)**
