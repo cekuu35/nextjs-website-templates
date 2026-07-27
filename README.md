@@ -1,15 +1,15 @@
 # 20 Next.js Templates for Agencies & Freelancers
 
-[![20 Next.js and Tailwind starter sites — $63.20 with LAUNCH20](assets/bundle-cover.svg)](https://cengokurtoglu.gumroad.com/l/vuhstz/LAUNCH20?wanted=true&utm_source=github&utm_medium=hero&utm_campaign=india_launch)
+[![20 Next.js and Tailwind starter sites — scope review](assets/bundle-cover.svg)](https://cekuu35.github.io/india-nextjs-templates/?utm_source=github&utm_medium=hero&utm_campaign=template_scope_review)
 
 [![Public demo link health](https://github.com/cekuu35/nextjs-website-templates/actions/workflows/demo-link-health.yml/badge.svg)](https://github.com/cekuu35/nextjs-website-templates/actions/workflows/demo-link-health.yml)
 
 > **Next.js 15.1 + React 19 + Tailwind CSS 3.4 + TypeScript** — 20 multi-page starter sites designed for agency pitches and client builds.  
 > Skip the blank canvas, show a credible first direction sooner, then spend your time on the client’s brand, content, and experience. **All demo client names, testimonials, metrics, awards, availability claims, phone numbers, and email addresses are fictional placeholders—not product results or endorsements.** Forms and commerce/booking actions are demo UI flows; replace all placeholders, connect a production backend, and test it before client delivery.
 
-**[Review all 20 demos, scope and limitations →](https://cekuu35.github.io/india-nextjs-templates/?utm_source=github&utm_medium=referral&utm_campaign=india_launch)** · **[Get all 20 for $63.20 with LAUNCH20 → Gumroad](https://cengokurtoglu.gumroad.com/l/vuhstz/LAUNCH20?wanted=true&utm_source=github&utm_medium=referral&utm_campaign=india_launch)**
+**[Review all 20 demos, scope and limitations →](https://cekuu35.github.io/india-nextjs-templates/?utm_source=github&utm_medium=referral&utm_campaign=template_scope_review)**
 
-> **Launch offer:** LAUNCH20 currently applies 20% off the $79 USD list price when Gumroad accepts the code. Gumroad checkout is the source of truth for code validity, final price, taxes, conversion, and payment methods.
+> **Commercial promotion paused:** the demos and documentation remain public, but checkout links are withheld until the owner verifies the commercial-use, client-delivery, redistribution, package, cover, support, and refund/broken-file terms.
 
 **Not seeing the right client niche? [Request a starting point](https://github.com/cekuu35/nextjs-website-templates/issues/new?template=niche-request.yml) — no purchase or private client details required.**
 
@@ -39,7 +39,7 @@ This bundle is for freelancers and agencies that need **multiple client-facing v
 - Use the live demos to discuss a visual direction, then replace all placeholder content and connect the production services the client actually needs.
 - Pick a full-stack SaaS boilerplate instead if your main requirement is prebuilt authentication, billing, database, or application logic.
 
-**[Compare the 20 live directions and open the verified $63.20 LAUNCH20 checkout →](https://cengokurtoglu.gumroad.com/l/vuhstz/LAUNCH20?wanted=true&utm_source=github&utm_medium=referral&utm_campaign=india_launch_comparison)**
+**[Compare the 20 live directions and documented limitations →](https://cekuu35.github.io/india-nextjs-templates/?utm_source=github&utm_medium=referral&utm_campaign=template_scope_review&utm_content=comparison)**
 
 ---
 
@@ -49,13 +49,13 @@ Choose by the work you need to start—not by the longest feature list.
 
 | Starting point | Best fit | What you still need to do |
 |---|---|---|
-| **This 20-template bundle ($63.20 with LAUNCH20; normally $79)** | Agencies and freelancers who want multiple niche-specific visual directions for pitches and marketing-site builds | Replace all demo content, apply the client brand, connect production services, and test the finished site |
+| **This 20-template bundle (commercial promotion paused)** | Agencies and freelancers evaluating multiple niche-specific visual directions | Review the documented scope only until the owner re-approves commercial terms and package readiness |
 | **One premium template** | A single project whose niche and visual direction are already settled | Adapt that design to the client and complete production integrations |
 | **A full-stack SaaS boilerplate** | Products that need prebuilt auth, billing, database, teams, or application logic | Build the product-specific workflows, UI, and operational setup |
 
 The bundle is the practical fit when **breadth of client-facing starting points** matters more than prebuilt backend infrastructure.
 
-**[Review the included directions and get all 20 for $63.20 with LAUNCH20 →](https://cengokurtoglu.gumroad.com/l/vuhstz/LAUNCH20?wanted=true&utm_source=github&utm_medium=referral&utm_campaign=india_launch_alternatives)**
+**[Review the included directions and limitations →](https://cekuu35.github.io/india-nextjs-templates/?utm_source=github&utm_medium=referral&utm_campaign=template_scope_review&utm_content=alternatives)**
 
 ---
 
@@ -125,9 +125,9 @@ The bundle is the practical fit when **breadth of client-facing starting points*
 
 ## Pricing
 
-**All 20 templates: $63.20 USD with LAUNCH20 (normally $79).** The verified checkout delivers one 17.7 MB ZIP with the editable source folders. Confirm the current license scope and final amount in Gumroad before purchase.
+**Commercial checkout promotion is paused.** The historical package contained one 17.7 MB ZIP with 20 editable source folders, but no purchase is recommended until the owner re-verifies the exact archive, public license scope, support/refund handling, and current listing.
 
-**[Preview all 20 demos →](https://cekuu35.github.io/india-nextjs-templates/?utm_source=github&utm_medium=referral&utm_campaign=india_launch_pricing)** · **[Get all 20 for $63.20 with LAUNCH20 →](https://cengokurtoglu.gumroad.com/l/vuhstz/LAUNCH20?wanted=true&utm_source=github&utm_medium=referral&utm_campaign=india_launch_pricing)** · **[Read the buyer guide](BUYER_GUIDE.md)**
+**[Preview all 20 demos →](https://cekuu35.github.io/india-nextjs-templates/?utm_source=github&utm_medium=referral&utm_campaign=template_scope_review&utm_content=demos)** · **[Read the buyer guide](BUYER_GUIDE.md)**
 
 ---
 
@@ -152,7 +152,7 @@ Want to try before you buy?
 ## FAQ
 
 **Q: Is source code included?**  
-A: The inspected [$63.20 LAUNCH20 checkout](https://cengokurtoglu.gumroad.com/l/vuhstz/LAUNCH20?wanted=true&utm_source=github&utm_medium=referral&utm_campaign=india_launch_faq) currently delivers one 17.7 MB ZIP containing the editable source folders when Gumroad accepts the code.
+A: The previously inspected package contained one 17.7 MB ZIP with editable source folders. Checkout promotion is paused until the owner re-verifies the exact delivered archive and commercial terms.
 
 **Q: Do I need a backend?**  
 A: The included forms are demo interfaces. Connect a real backend or form service such as Resend before production, then test validation, delivery, spam protection, consent, and error handling.
@@ -170,8 +170,8 @@ A: The currently inspected bundle sources use **Next.js 15.1, React 19, and Tail
 
 ## Machine-readable product data
 
-Search engines, directories, and AI agents can read the current verified offer in [`product.json`](product.json): **20 templates, $63.20 USD with LAUNCH20 (normally $79), direct Gumroad checkout, no subscription**.
+Search engines, directories, and AI agents can read the current review-only status in [`product.json`](product.json): **20 public demos, documented scope, and no promoted checkout while commercial gates remain open**.
 
 ---
 
-*This repository is a marketing showcase. [Get the full source bundle for $63.20 with LAUNCH20 on Gumroad](https://cengokurtoglu.gumroad.com/l/vuhstz/LAUNCH20?wanted=true&utm_source=github&utm_medium=referral&utm_campaign=india_launch_footer) while Gumroad accepts the code.*
+*This repository is a public scope-and-demo showcase. Commercial checkout promotion is paused pending owner verification of license, package, cover, support, and refund/broken-file handling.*
