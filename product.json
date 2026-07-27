@@ -2,16 +2,16 @@
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "20 Website Templates Bundle — Next.js + Tailwind",
-  "description": "A collection of 20 reusable multi-page Next.js and Tailwind website starters with editable TypeScript source. Confirm commercial-use, client-delivery, and redistribution terms before client work.",
+  "description": "A public showcase of 20 reusable multi-page Next.js and Tailwind website starter directions. Commercial checkout promotion is paused until owner verification of license and package terms.",
   "category": "Website templates",
   "brand": {
     "@type": "Brand",
     "name": "Cenk Kurtoğlu"
   },
-  "url": "https://cengokurtoglu.gumroad.com/l/vuhstz/LAUNCH20?wanted=true&utm_source=github&utm_medium=structured_data&utm_campaign=india_launch",
+  "url": "https://github.com/cekuu35/nextjs-website-templates",
   "isRelatedTo": {
     "@type": "WebPage",
-    "name": "20 public demos, verified scope, and $63.20 LAUNCH20 offer",
+    "name": "20 public demos and documented scope",
     "url": "https://cekuu35.github.io/india-nextjs-templates/"
   },
   "additionalProperty": [
@@ -43,16 +43,12 @@
     {
       "@type": "PropertyValue",
       "name": "License scope",
-      "value": "Commercial-use, client-delivery, and redistribution terms are not stated publicly; confirm before purchase"
+      "value": "Owner verification pending; no commercial checkout is promoted"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Commercial status",
+      "value": "Promotion paused pending owner verification"
     }
-  ],
-  "offers": {
-    "@type": "Offer",
-    "url": "https://cengokurtoglu.gumroad.com/l/vuhstz/LAUNCH20?wanted=true&utm_source=github&utm_medium=structured_data&utm_campaign=india_launch",
-    "priceCurrency": "USD",
-    "price": "63.20",
-    "availability": "https://schema.org/InStock",
-    "itemCondition": "https://schema.org/NewCondition",
-    "description": "LAUNCH20 currently applies 20% off the $79 USD list price when Gumroad accepts the code. The code is limited to 20 total uses; Gumroad is the source of truth for validity and final amount."
-  }
+  ]
 }
