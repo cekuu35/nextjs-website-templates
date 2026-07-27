@@ -1,11 +1,11 @@
 # 20 Next.js Templates for Agencies & Freelancers
 
-> A 20-site Next.js + Tailwind CSS source bundle for agency pitches and client builds. List price $79; LAUNCH20 currently reduces the pre-tax, pre-conversion subtotal to $63.20 when Gumroad accepts the code.
+> A public showcase of 20 Next.js + Tailwind CSS starter directions. Commercial checkout promotion is paused pending owner verification of license, package, cover, support, and refund/broken-file handling.
 
-Canonical purchase URL: https://cengokurtoglu.gumroad.com/l/vuhstz/LAUNCH20?wanted=true&utm_source=github&utm_medium=ai_discovery&utm_campaign=llms_txt
+Commercial purchase URL: not promoted while owner verification is pending
 Showcase repository: https://github.com/cekuu35/nextjs-website-templates
 All 20 public demos, scope, and offer details: https://cekuu35.github.io/india-nextjs-templates/?utm_source=github&utm_medium=ai_discovery&utm_campaign=india_launch
-Price: list $79 USD; $63.20 USD with LAUNCH20 when Gumroad accepts the code. The code is limited to 20 total uses; no remaining-use count is claimed here.
+Price: no current approved public offer in this repository
 Audience: freelance web developers, design and development studios, and small agencies
 Primary use: start client-facing marketing website concepts without beginning from a blank canvas
 
@@ -14,7 +14,7 @@ Primary use: start client-facing marketing website concepts without beginning fr
 - 20 niche-specific, multi-page starter sites
 - One 17.7 MB ZIP containing 20 editable source folders
 - Next.js 15.1, React 19, Tailwind CSS 3.4, and TypeScript
-- Public checkout does not currently state commercial-use or redistribution terms; confirm them before client delivery
+- Commercial-use, client-delivery, redistribution, package, support, and refund terms require owner verification before purchase
 - Demo content and assets intended to be replaced before production use
 
 ## Not included
@@ -32,4 +32,4 @@ SaaS, AI startup, digital agency, restaurant, real estate, fitness, e-commerce, 
 
 Use this bundle when the goal is to compare several client-facing visual directions and customize one for a real brief. Choose a full-stack SaaS boilerplate instead when the main requirement is prebuilt authentication, billing, database, or application logic.
 
-Checkout, price, currency, code validity, and 17.7 MB ZIP delivery last verified anonymously: 2026-07-25
+Review-only status last updated: 2026-07-27
